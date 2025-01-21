@@ -1,4 +1,4 @@
-name: recipe-app-api
+name: recipeapp
 
 services:
   app:
